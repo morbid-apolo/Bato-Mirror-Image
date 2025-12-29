@@ -3,7 +3,6 @@
 // @namespace    http://tampermonkey.net/
 // @version      4.1
 // @description  Fixes the 'k' to 'n' server error across all known mirror domains using the confirmed working match structure.
-// @author       You
 // @match        *://ato.to/*
 // @match        *://dto.to/*
 // @match        *://fto.to/*
@@ -31,6 +30,7 @@
 // @match        *://bato.si/*
 // @match        *://dto.to/*
 // @match        *://bato.to/*
+// @match        *://bato.ing/*
 // @match        *://bato.vc/*
 // @match        *://bato.day/*
 // @match        *://bato.red/*
