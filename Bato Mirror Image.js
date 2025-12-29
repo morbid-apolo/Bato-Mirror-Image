@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Universal Bato Mirror Image Fixer (v4.1)
+// @name         Bato Mirror Fix
 // @namespace    http://tampermonkey.net/
 // @version      4.1
 // @description  Fixes the 'k' to 'n' server error across all known mirror domains using the confirmed working match structure.
